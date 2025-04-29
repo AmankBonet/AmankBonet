@@ -60,10 +60,17 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmankBonet&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dediyofaid)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram)](https://instagram.com/dediyofaid)
 
 ---
