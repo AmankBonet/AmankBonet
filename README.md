@@ -42,7 +42,7 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmankBonet&show_icons=true&theme=radical" alt="AmankBonet GitHub stats" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmankBonet&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 📈 Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmankBonet&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitter)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram)](https://instagram.com/yourinstagram)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram)](https://instagram.com/dediyofaid)
 
 ---
 
