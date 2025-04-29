@@ -1,6 +1,3 @@
-<!-- Banner atau Header -->
-<img src="https://i.imgur.com/yourbannerlink.png" alt="Welcome Banner" width="100%" />
-
 # Hi there 👋, I'm DEDI YOFAID, S.Kom
 
 <p align="left"> 
@@ -68,14 +65,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitter)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram)](https://instagram.com/dediyofaid)
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Your blog post 1](#)
-- [Your blog post 2](#)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
