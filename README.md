@@ -5,11 +5,10 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[RSUD AJIBARANG]**
-- 🌱 I’m currently learning **[Node JS]**
-- 👯 I’m looking to collaborate on **[Open Source Projects / Fields]**
+- 🔭 I’m currently working on **[RSUD AJIBARANG]** as Senior Programmer
+- 🌱 I’m currently learning **[Node JS, Javascript, PHP]**
+- 👯 I’m looking to collaborate on **[Repository RSUD Ajibarang]**
 - 📫 How to reach me **[dediyofaid@gmail.com]**
-- ⚡ Fun fact: **[Dream Come True]**
 
 ---
 
