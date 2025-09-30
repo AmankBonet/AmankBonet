@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Fokus Utama: Digitalisasi Kesehatan
 
-Saya adalah seorang **[Senior Software Engineer, System Architect, Backend Developer]** yang berdedikasi penuh pada pengembangan **Sistem Informasi Rekam Medis Elektronik (SIMRS/e-RM)** dan **Solusi Kesehatan Digital**.
+Saya adalah seorang **Senior Software Engineer, System Architect, Backend Developer** yang berdedikasi penuh pada pengembangan **Sistem Informasi Rekam Medis Elektronik (SIMRS/e-RM)** dan **Solusi Kesehatan Digital**.
 
 **Misi saya** adalah membangun sistem yang aman, terintegrasi, dan mematuhi regulasi kesehatan (seperti **HL7 FHIR**, **HIPAA/HIMSS** di skala global, atau regulasi **Kemenkes RI** di Indonesia) untuk meningkatkan kualitas layanan pasien dan efisiensi operasional fasilitas kesehatan.
 
