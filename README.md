@@ -1,5 +1,5 @@
 
-# Saya Dedi Yofaid, S.Kom 👋
+# Dedi Yofaid, S.Kom 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dedi-yofaid-a330a6347/)
 [![Email Badge](https://img.shields.io/badge/Email-Hubungi%20Saya-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dediyofaid@gmail.com)
