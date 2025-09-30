@@ -44,7 +44,7 @@ Berikut adalah teknologi dan standar industri yang saya gunakan dalam pengembang
 ### 🌐 Infrastruktur & Arsitektur
 | Domain | Teknologi |
 | :--- | :--- |
-| **Frontend** | `React` / `Next.js` / `Vue.js` |
+| **Frontend** | `React` |
 | **Backend** | `Microservices Architecture`, `RESTful/GraphQL APIs` |
 | **Database** | `PostgreSQL` (Prioritas integritas data) / `MongoDB` (Untuk data non-klinis) |
 | **Cloud & DevOps** | `Docker`, `Kubernetes (K8s)`, `AWS/GCP/Azure`, `CI/CD (GitLab/GitHub Actions)` |
