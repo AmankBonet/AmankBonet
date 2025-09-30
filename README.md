@@ -28,19 +28,18 @@ Berikut adalah teknologi dan standar industri yang saya gunakan dalam pengembang
 | **Keamanan Data** | `A.S.M. (Authentication, Security, Management)` | Fokus pada kepatuhan regulasi data kesehatan. |
 
 
-### 💻 Bahasa Pemrograman
+### 💻 Bahasa Pemrograman & Runtime
 | Kategori | Teknologi |
 | :--- | :--- |
-| **Backend Utama** | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **[Hapus yang tidak relevan]** |
-| **Frontend/App** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Backend Utama** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| **Frontend/App** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 
 ### ⚙️ Frameworks & Database
-| Kategori | Teknologi |
-| :--- | :--- |
-| **Backend Framework** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| **Frontend UI** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **Caching/Queue** | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-232F3E?style=flat&logo=apache-kafka&logoColor=white) |
+| Kategori | Teknologi | Spesialisasi |
+| :--- | :--- | :--- |
+| **Backend Framework** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | Pengembangan **RESTful APIs** yang aman dan skalabel untuk pertukaran data klinis. |
+| **Frontend UI** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) | Membangun antarmuka klinisi yang **user-friendly** dan *role-based access*. |
+| **RDBMS** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | **Database Relasional**, fokus pada normalisasi dan optimasi *query* untuk integritas data medis. |
 
 ### 🌐 Infrastruktur & Arsitektur
 | Domain | Teknologi |
